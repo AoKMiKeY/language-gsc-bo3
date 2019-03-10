@@ -1,6 +1,6 @@
 {
   "name": "language-gsc-bo3",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A simple implementation of the BO3 Spec GSC language grammar",
   "keywords": [],
   "repository": "https://github.com/luminns/language-gsc-bo3",
